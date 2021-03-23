@@ -1,0 +1,23 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradyu-hebbar/calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pradyu-hebbar/calculator/issues"
+  },
+  "homepage": "https://pradyu-hebbar.github.io/calculator",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
